@@ -4,14 +4,13 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on Software Develpment Engineer
+- 🌱 I’m currently learning Arquitecture
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He
+- ⚡ Fun fact: 
 -->
 
 
@@ -37,10 +36,10 @@ Here are some ideas to get you started:
 ### My Experiences 🙌
 - [Software Develpment Engineer (Zenvia)](https://www.linkedin.com/company/zenvia-inc/) - (May'21-Present)
 - [Software Develpment Engineer(Saipher ATC)](https://www.saipher.com.br/) - (May'18-May21)
-- [Developer (Habil)](https://habiltecnologia.com.br/) - (Dec'20-Jul'21)
+- [Developer (Habil)](https://habiltecnologia.com.br/) - (May'11-May'18)
 
-![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=pablorborges&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pablorborges&layout=compact&langs_count=8&hide_border=true)
+![Pablo's github stats](https://github-readme-stats.vercel.app/api?username=pablorborges&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Pablo's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pablorborges&layout=compact&langs_count=8&hide_border=true)
 <br />
 
 
