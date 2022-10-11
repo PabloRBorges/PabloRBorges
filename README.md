@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Aakash Sinha!](https://www.linkedin.com/in/aakash9868sinha/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Pablo R Borges!](https://www.linkedin.com/in/aakash9868sinha/) 
 <!--
 **isupersky/isupersky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,13 +15,10 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://www.linkedin.com/in/aakash9868sinha/">
+<a href="https://www.linkedin.com/in/pablorborges/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
-<a href="https://twitter.com/isupersky">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:mailtomeaakash@gmail.com">
+<a href="mailto:pablorborges@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 <a href="https://www.youtube.com/channel/UCiiOUy5NitscX1Ao8on70Rw">
@@ -38,18 +35,17 @@ Here are some ideas to get you started:
 👨‍💻  I am passionate about Web Dev & I enjoy learning new things. </br>
 
 ### My Experiences 🙌
-- [Software Develpment Engineer (FreeCharge)](https://www.freecharge.in/) - (Jul'21-Present)
-- [BAT Ambassador (Brave)](https://brave.com/) - (Apr'21-Present)
-- [Software Engineer (To The New)](https://www.tothenew.com/) - (Dec'20-Jul'21)
+- [Software Develpment Engineer (Zenvia)](https://www.linkedin.com/company/zenvia-inc/) - (May'21-Present)
+- [Software Develpment Engineer(Saipher ATC)](https://www.saipher.com.br/) - (May'18-May21)
+- [Developer (Habil)](https://habiltecnologia.com.br/) - (Dec'20-Jul'21)
 
-![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=isupersky&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=isupersky&layout=compact&langs_count=8&hide_border=true)
+![Aakash's github stats](https://github-readme-stats.vercel.app/api?username=pablorborges&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Aakash's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pablorborges&layout=compact&langs_count=8&hide_border=true)
 <br />
 
 
 ### 📕 Blog Posts
 - [React-Redux : A basic intro for Back-end developers](https://isupersky.medium.com/react-redux-intro-for-back-end-developers-5113c0a498a9)
-- [Add a README for your profile : GitHub feature](https://isupersky.medium.com/add-a-readme-for-your-profile-github-feature-8f1ac11cb112)
 <br/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=isupersky.isupersky)
